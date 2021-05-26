@@ -1,6 +1,11 @@
 # ~~thoughts.~~ 
 A collection of random nonsense that I've accumulated over time.
 
+## Wiener Luft
+Etwas liegt in der Luft. Ich kann es spüren, aber nicht erklären. Ein Gefühl der Angst, des Kontrollverlustes, der Machtlosigkeit. Ein Gefühl der Wut, als wäre es Zeit für eine Konfrontation. Für ein Unter- und Gegenüberstellen. Für eine Revolution. Nichts ist mehr sicher. Nicht der eigene Leib, nicht die Familie, nicht der Betrieb, nicht die Gesundheit. Kein Kommentar im Internet, kein Witz über kontroverse Themen. Nicht einmal die eigenen Gedanken sind sicher. Sicher vor den Mächtigen. Sicher vor dem Staat. Sicher vor dem *Feind*?
+
+Etwas liegt in der Luft. Ich fühle mich nicht mehr sicher. Ich habe Angst. Angst, dass ich nicht mehr sagen darf, was gesagt werden muss. Angst, dass (m)eine Meinung Konsequenzen mit sich zieht. Warum muss ich diese Angst haben? Irgendetwas läuft falsch. Irgendetwas liegt in der Luft.
+
 ## Intoxication and dreams
 Dreaming feels just like being intoxicated. You can't and don't think clearly, thinks just happen. I wonder if there's a connection.
 
