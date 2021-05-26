@@ -12,5 +12,19 @@ So people rightfully do not trust the news, but how is one supposed to find trut
 
 The whole idea is that you do not need to trust strangers, institutions or companies. You mereley need social connections and people that you trust. My whole idea is built onto mankinds biggest accomplishment: social life. You and your social contacts build one humongous journalism construct. Everyone does research on one particular subject which everyone can debate about and -in turn- try to dismantle. One idea might be that of gamification. If the winner of one such debate gets points, then people will try to find weakness or wrongness in other's investigations in order to win the debate and get points. This seems like a hard thing to do in practice because most issues in the world are not black and white, but one can argue that there will always be one 'most true' argumentation or investigation in such a debate.
 
+## Alcohol
+What do we drink it for? When I think about what we do while being drunk, it feels like alcohol just makes boring things not so boring. That feels like fighting symptoms. Isn't the real problem that we are doing boring things in the first place?
+
+## Meinungsfreiheit
+Dass ich vorsichtig sein muss, welche von meinen Gedanken ich im Internet preisgebe oder versende, sagt doch viel über die heutige Gesellschaft und ihren Umgang mit Alternativmeinungen und Kritik aus. Unsere Gesellschaft ist nicht perfekt und wird es niemals sein. Wovor hat die Gesellschaft/ haben die Politiker Angst, dass sie uns so sehr einschüchtern müssen, dass wir im Grunde genommen aufpassen müssen, was wir *denken*? Werden wir gerade in unseren Gedanken bevormundet? Dann heißt das ja nichts anderes, als dass wir kontrolliert werden und Marionetten spielen.
+
+## Gun Control
+Is the liberty to own a gun necessary to protect oneself from a tyrant institution i.e. in the event of the government turning into an authoritarian regime? Is the right to own a gun helping to distribute power so that the military and law enforcement can't abuse theirs? Is this not analogous to the discussion about free software? Where does free speech fit in? Am I a hypocrite if I advocate free software and do not advocate gun liberty rights? Why do I not advocate gun liberty rights? Can a society exist if everybody had this kind of responibility? What would happen if some groups started hating each other? Is that plausible, or even likely?
+
+## Intoxication and dreams
+Dreaming feels just like being intoxicated. You can't and don't think clearly, thinks just happen. I wonder if there's a connection.
+
+
+
 
 
