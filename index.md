@@ -1,6 +1,5 @@
 # ~~thoughts.~~ 
-
-# A collection of random nonsense that I've accumulated over time.
+A collection of random nonsense that I've accumulated over time.
 
 ## Intoxication and dreams
 Dreaming feels just like being intoxicated. You can't and don't think clearly, thinks just happen. I wonder if there's a connection.
