@@ -1,7 +1,7 @@
 # ~~thoughts.~~ 
 A collection of random nonsense that I've accumulated over time.
 
-## Li*nearly* funny
+## Li-nearly funny
 Our origin is the root of all ~~vectors~~ evil.
 
 ## Wiener Luft
