@@ -7,7 +7,7 @@ Etwas liegt in der Luft. Ich kann es spüren, aber nicht erklären. Ein Gefühl 
 Etwas liegt in der Luft. Ich fühle mich nicht mehr sicher. Ich habe Angst. Angst, dass ich nicht mehr sagen darf, was gesagt werden muss. Angst, dass (m)eine Meinung Konsequenzen mit sich zieht. Warum muss ich diese Angst haben? Irgendetwas läuft falsch. Irgendetwas liegt in der Luft.
 
 ## Intoxication and dreams
-Dreaming feels just like being intoxicated. You can't and don't think clearly, thinks just happen. I wonder if there's a connection.
+Dreaming feels just like being intoxicated. You can't and don't think clearly, things just happen. I wonder if there's a connection.
 
 ## Gun Control
 Is the liberty to own a gun necessary to protect oneself from a tyrant institution i.e. in the event of the government turning into an authoritarian regime? Is the right to own a gun helping to distribute power so that the military and law enforcement can't abuse theirs? Is this not analogous to the discussion about free software? Where does free speech fit in? Am I a hypocrite if I advocate free software and do not advocate gun liberty rights? Why do I not advocate gun liberty rights? Can a society exist if everybody had this kind of responibility? What would happen if some groups started hating each other? Is that plausible, or even likely?
