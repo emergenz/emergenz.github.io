@@ -1,6 +1,9 @@
 # ~~thoughts.~~ 
 A collection of random nonsense that I've accumulated over time.
 
+## Li*nearly* funny
+Our origin is the root of all ~~vectors~~ evil.
+
 ## Wiener Luft
 Etwas liegt in der Luft. Ich kann es spüren, aber nicht erklären. Ein Gefühl der Angst, des Kontrollverlustes, der Machtlosigkeit. Ein Gefühl der Wut, als wäre es Zeit für eine Konfrontation. Für ein Unter- und Gegenüberstellen. Für eine Revolution. Nichts ist mehr sicher. Nicht der eigene Leib, nicht die Familie, nicht der Betrieb, nicht die Gesundheit. Kein Kommentar im Internet, kein Witz über kontroverse Themen. Nicht einmal die eigenen Gedanken sind sicher. Sicher vor den Mächtigen. Sicher vor dem Staat. Sicher vor dem *Feind*?
 
