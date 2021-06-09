@@ -1,6 +1,9 @@
 # ~~thoughts.~~ 
 A collection of random nonsense that I've accumulated over time.
 
+## Sharing is
+~~caring~~ examining the probability of a net positive payoff and acting accordingly.
+
 ## Li-nearly funny
 Our origin is the root of all ~~vectors~~ evil.
 
