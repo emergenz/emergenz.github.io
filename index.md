@@ -1,6 +1,12 @@
 # ~~thoughts.~~ 
 A collection of random nonsense that I've accumulated over time.
 
+## Depressionsprävention
+Es gibt nur eine funktionierende Art der Depressionsprävention: So viel um die Ohren zu haben, dass man keine Zeit hat, über sein Leben nachzudenken.
+
+## Riseup
+Very interesting collective, might be very useful in the not-so-distant future. It feels like we are heading into very unstable times. A friend of mine told me that I am on the verge of insanity. Is it insane to think that our society is collapsing and democracy is getting undermined? Am I overdramatising recent events? There is a certain scent in the air that worries me, a irrational feeling of distress. What is my unconsciousness trying to tell me?
+
 ## Sharing is
 ~~caring~~ examining the probability of a net positive payoff and acting accordingly.
 
