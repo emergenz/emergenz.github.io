@@ -1,6 +1,9 @@
 # ~~thoughts.~~ 
 A collection of random nonsense that I've accumulated over time.
 
+## AMAB
+All men are bastards.
+
 ## Depressionsprävention
 Es gibt nur eine funktionierende Art der Depressionsprävention: So viel um die Ohren zu haben, dass man keine Zeit hat, über sein Leben nachzudenken.
 
