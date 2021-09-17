@@ -1,7 +1,7 @@
 # ~~thoughts.~~ 
 A collection of random nonsense that I've accumulated over time.
 
-## Fassungsvermögen
+## Fassungs(un)vermögen
 Das Unvermögen, Gedanken in Worte zu fassen, ist das größte Trübsal der Menschheitsgeschichte.
 
 ## AMAB
