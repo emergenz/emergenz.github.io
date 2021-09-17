@@ -1,6 +1,9 @@
 # ~~thoughts.~~ 
 A collection of random nonsense that I've accumulated over time.
 
+## Fassungsvermögen
+Das Unvermögen, Gedanken in Worte zu fassen, ist das größte Trübsal der Menschheitsgeschichte.
+
 ## AMAB
 All men are bastards.
 
