@@ -1,6 +1,9 @@
 # ~~thoughts.~~ 
 A collection of random nonsense that I've accumulated over time.
 
+## Mallorca
+Die Linke ist gegen eine CO2-Steuer, weil der Mittelstand dann nicht mehr jedes Jahr nach Mallorca fliegen kann. Die Welt hatte für einige Jahrzehnte eine billige Energiequelle. Diese Quelle fällt nun weg. Jährlich Mallorca ist jetzt ein Luxus, den sich die Mittelschicht nicht mehr leisten kann. Den Preis hat bisher die Erde gezahlt. Das kann so nicht weitergehen.
+
 ## Disrupting industries
 One should not always try to improve upon existing ideas. In fact, way more can be achieved by finding the stupidity in them and unforgivingly penalizing those responsible.
 
