@@ -1,6 +1,9 @@
 # ~~thoughts.~~ 
 A collection of random nonsense that I've accumulated over time.
 
+## Disrupting industries
+One should not always try to improve upon existing ideas. In fact, way more can be achieved by finding the stupidity in them and unforgivingly penalizing those responsible.
+
 ## Fassungs(un)vermögen
 Das Unvermögen, Gedanken in Worte zu fassen, ist das größte Trübsal der Menschheitsgeschichte.
 
