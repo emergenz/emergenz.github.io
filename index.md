@@ -1,6 +1,10 @@
 # ~~thoughts.~~ 
 A collection of random nonsense that I've accumulated over time.
 
+## Auctioning platform for leaks
+
+We need to find a way of financially incentivising leaking of information that is relevant for the general public and find a mechanism which ensures that a) the information is indeed of public relevance and b) the information is made publicy available by the purchaser. Such a platform could elevate the _potency_ of the 'fourth power' of democracy, the press, and as such help ensure that political agendas are aligned to their public __pãˈdã_.
+
 ## Die intrinsische Reise ins Nichts
 Zermürbend. Noch nicht angekommen zu sein. Schwierig, ohne Wegweiser, ohne einer Orientierungshilfe. Ohne Sinn und Zweck, ohne Absicht, ohne Erfolg. Mit unermüdbarer Motivation, und doch mit falscher Zielsetzung. Das Ziel, es zu schaffen. Anzukommen.
 
