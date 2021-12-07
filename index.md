@@ -5,9 +5,6 @@ A collection of random nonsense that I've accumulated over time.
 
 We need to find a way of financially incentivising leaking of information that is relevant for the general public and find a mechanism which ensures that a) the information is indeed of public relevance and b) the information is made publicy available by the purchaser. Such a platform could elevate the _potency_ of the 'fourth power' of democracy, the press, and as such help ensure that political agendas are aligned to their public _pãˈdã_.
 
-## Die intrinsische Reise ins Nichts
-Zermürbend. Noch nicht angekommen zu sein. Schwierig, ohne Wegweiser, ohne einer Orientierungshilfe. Ohne Sinn und Zweck, ohne Absicht, ohne Erfolg. Mit unermüdbarer Motivation, und doch mit falscher Zielsetzung. Das Ziel, es zu schaffen. Anzukommen.
-
 ## Mallorca
 Die Linke ist gegen eine CO2-Steuer, weil der Mittelstand dann nicht mehr jedes Jahr nach Mallorca fliegen kann. Die Welt hatte für einige Jahrzehnte eine billige Energiequelle. Diese Quelle fällt nun weg. Jährlich Mallorca ist jetzt ein Luxus, den sich die Mittelschicht nicht mehr leisten kann. Den Preis hat bisher die Erde gezahlt. Das kann so nicht weitergehen.
 
@@ -23,19 +20,11 @@ All men are bastards.
 ## Depressionsprävention
 Es gibt nur eine funktionierende Art der Depressionsprävention: So viel um die Ohren zu haben, dass man keine Zeit hat, über sein Leben nachzudenken.
 
-## Riseup
-Very interesting collective, might be very useful in the not-so-distant future. It feels like we are heading into very unstable times. A friend of mine told me that I am on the verge of insanity. Is it insane to think that our society is collapsing and democracy is getting undermined? Am I overdramatising recent events? There is a certain scent in the air that worries me, an irrational feeling of distress. What is my unconsciousness trying to tell me?
-
 ## Sharing is
 ~~caring~~ examining the probability of a net positive payoff and acting accordingly.
 
 ## Li-nearly funny
 Our origin is the root of all ~~vectors~~ evil.
-
-## Wiener Luft
-Etwas liegt in der Luft. Ich kann es spüren, aber nicht erklären. Ein Gefühl der Angst, des Kontrollverlustes, der Machtlosigkeit. Ein Gefühl der Wut, als wäre es Zeit für eine Konfrontation. Für ein Unter- und Gegenüberstellen. Für eine Revolution. Nichts ist mehr sicher. Nicht der eigene Leib, nicht die Familie, nicht der Betrieb, nicht die Gesundheit. Kein Kommentar im Internet, kein Witz über kontroverse Themen. Nicht einmal die eigenen Gedanken sind sicher. Sicher vor den Mächtigen. Sicher vor dem Staat. Sicher vor dem *Feind*?
-
-Etwas liegt in der Luft. Ich fühle mich nicht mehr sicher. Ich habe Angst. Angst, dass ich nicht mehr sagen darf, was gesagt werden muss. Angst, dass (m)eine Meinung Konsequenzen mit sich zieht. Warum muss ich diese Angst haben? Irgendetwas läuft falsch. Irgendetwas liegt in der Luft.
 
 ## Intoxication and dreams
 Dreaming feels just like being intoxicated. You can't and don't think clearly, things just happen. I wonder if there's a connection.
