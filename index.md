@@ -1,8 +1,13 @@
 # ~~thoughts.~~ 
 A collection of random nonsense that I've accumulated over time.
 
-## Auctioning platform for leaks
+## Big Pharma and the alleged need of monopolies
+Research and Development is costly. An incentive is needed to drive innovation. Without intellectual property rights, generic challengers could easily analyze a given drug, make a replica and drive the original company out of the market by avoiding R&D and its associated cost. We reward innovators by artificially creating a (temporary) monopoly for the company with respect to their innovation. In other words, we (temporarily) give companies monopolistic rights so that they can cover their past R&D expenses... except that we don't care how much the R&D process actually cost, or how much of a profit the companies are making because of their monopolistic rights. How can this (seemingly broken) system be improved upon?
 
+## Counteracting cognitive biases whilst researching
+There is no such thing as a definitive truth. All we can do is observe, document and experiment, this is all that science is about. When researching a topic, we want to get as close to the truth as possible. At the same time, we unconsciously want our assumptions to be correct. We want to be right and don't like to be proven wrong. Therefore, we need guidance when researching a topic. How can this guidance be achieved?
+
+## Auctioning platform for leaks
 We need to find a way of financially incentivising leaking of information that is relevant for the general public and find a mechanism which ensures that a) the information is indeed of public relevance and b) the information is made publicy available by the purchaser. Such a platform could elevate the _potency_ of the 'fourth power' of democracy, the press, and as such help ensure that political agendas are aligned to their public _pãˈdã_.
 
 ## Mallorca
